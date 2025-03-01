@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+
+header {
+    background-color: navy;
+    padding: 10px;
+}
+
+header img {
+    width: 40px;
+    height: 40px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+
+.image1 {
+    width: 50px;
+    height: 5opx;
+    border: 2px solid blue;
+}
+
+.image2 {
+    width: 50px;
+    height: 5opx;
+    border-radius: 15px;
+}
